@@ -2,6 +2,7 @@
   "name": "api-memories-project-with-javascript-mastery",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
