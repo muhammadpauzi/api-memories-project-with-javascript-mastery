@@ -1,2 +1,2 @@
 # api-memories-project-with-javascript-mastery
-📷 Rest API of memories-project-with-javascript-mastery repository.
+📷 Rest API for memories-project-with-javascript-mastery repository.
